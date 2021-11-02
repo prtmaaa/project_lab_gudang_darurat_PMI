@@ -1,4 +1,4 @@
-# project_lab_gudang_darurat_PMI
+# Project Lab Gudang Darurat_PMI
 ![172c88d0-fe91-463b-80ae-6b912e367dec](https://user-images.githubusercontent.com/86690521/139873604-eff37c1e-0ce5-4201-8192-3e1c551755d2.jpeg)
 https://awsimages.detik.net.id/community/media/visual/2020/03/25/172c88d0-fe91-463b-80ae-6b912e367dec.jpeg?w=700&q=90
 
